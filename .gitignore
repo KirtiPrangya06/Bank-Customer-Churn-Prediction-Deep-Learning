@@ -1,0 +1,21 @@
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+# Training artifacts
+*.h5
+*.keras
+*.ckpt
+checkpoints/
+logs/
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
